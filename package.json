@@ -1,26 +1,19 @@
 {
   "name": "com.zambara.quantum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quantum game server sdk for unity game engine.",
-  "displayName": "Quantum Server Unity",
+  "displayName": "Quantum Game Server SDK Unity",
   "unity": "2018.4",
-  "documentationUrl": "https://github.com/ZambaraStudio/quantum-game-server-sdk-unity",
-  "changelogUrl": "https://github.com/ZambaraStudio/quantum-game-server-sdk-unity/releases",
-  "licensesUrl": "https://github.com/ZambaraStudio/quantum-game-server-sdk-unity/LICENSE",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
   "keywords": [
     "Unity",
     "Unity3d",
     "Multiplayer",
     "Realtime",
-    "socket.io",
-    "socket-io",
-    "Realtime",
-    "WebSocket",
     "Connection",
-    "tcp",
-    "events",
-    "socket",
-    "io"
+    "Redis"
   ],
   "dependencies": {
   },
@@ -30,8 +23,8 @@
     "url": "https://github.com/ZambaraStudio/quantum-game-server-sdk-unity"
   },
   "author": {
-    "name": "zambara",
-    "email": "zambara",
+    "name": "Zambara",
+    "email": "",
     "url": "https://www.zambara.com"
   }
 }
