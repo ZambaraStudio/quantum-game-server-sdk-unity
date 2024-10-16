@@ -1,5 +1,5 @@
 {
-  "name": "com.zambara.quantum",
+  "name": "com.zambara.quantum.server",
   "version": "0.0.2",
   "description": "Quantum game server sdk for unity game engine.",
   "displayName": "Quantum Game Server SDK Unity",
